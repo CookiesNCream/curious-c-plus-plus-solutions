@@ -3,4 +3,4 @@
 # Challenges
 
 # License
-[See License]()
+[See License](https://github.com/CookiesNCream/curious-c-plus-plus/blob/master/LICENSE.md)
